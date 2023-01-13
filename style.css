@@ -1,0 +1,161 @@
+.headersmallimage{
+    width: 200px;
+    margin: 20px 20px 20px 110px;
+}
+.Review{
+    border: 1px solid white;
+    background-color: white;
+    font-size: 18px;
+}
+.Review:hover{
+    border: 1px solid white;
+    background-color: #efefef;
+    border-radius: 20px;
+    font-size: 18px;
+
+}
+#fff{
+    visibility: hidden;
+}
+.Sign{
+    border: 1px solid rgb(10, 10, 10);
+    background-color: rgb(5, 5, 5);
+    color: white;
+    font-size: 16px;
+    width: 80px;
+    padding: 4px;
+    border-radius: 20px;
+}
+.Sign:hover{
+    border: 1px solid rgb(46, 46, 46);
+    background-color: rgb(48, 47, 47);
+    color: white;
+    font-size: 16px;
+    width: 80px;
+    padding: 4px;
+    border-radius: 20px;
+
+}
+#hotelsbuttonofseconddiv{
+    width: 187px;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 16px;
+    flex: 1;
+}
+.seconddiv{
+    margin: 20px 20px 20px 110px;
+}
+.peoplesimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#peoplesimgplaceholder{
+    position: absolute;
+    top: 53%;
+    left: 20%;
+    background-color: white;
+    width: 900px;
+    border: 2px solid white;
+    padding: 18px;
+    border-radius: 40px;
+    
+}
+#tripimgofdivnofour{
+    width: 84%;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.divnofour{
+    margin-top: 90px;
+}
+.thetextofforthimagespic{
+    font-size: 40px;
+    font-weight: 800;
+    position: absolute;
+    top: 130%;
+    left: 11%;
+    color: white;
+    text-shadow: 2px 5px 3px rgb(56, 55, 55);
+}
+.thesectextofforthimagespic{
+    font-size: 30px;
+    font-weight: 800;
+    position: absolute;
+    top: 138%;
+    left: 11%;
+    color: white;
+    text-shadow: 2px 5px 3px rgb(56, 55, 55);
+}
+#Explore{
+    border-radius: 20px;
+    position: absolute;
+    top: 145%;
+    left: 11%;
+    background-color: black;
+}
+.thetextoffifthdiv{
+    font-size: 25px;
+    margin-left: 110px;
+    font-weight: bolder;
+    
+}
+.s{
+    font-size: 65px;
+    visibility: hidden;
+}
+.thesecondtextoffifthdiv{
+    margin-left: 110px;
+    font-size: 20px;
+}
+.fourpicsofsixthdiv{
+    margin: 30px 0px 0px 110px;
+}
+.piconeofsixthdiv{
+    width: 280px;
+    cursor: pointer;
+}
+.thepicstextinsixthdiv{
+    font-size: 33px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 2px 5px 3px rgb(56, 55, 55);
+    position: absolute;
+    top: 220%;
+    left: 10%;
+    cursor: pointer;
+}
+.thesecondpicstextinsixthdiv{
+    font-size: 33px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 2px 5px 3px rgb(56, 55, 55);
+    position: absolute;
+    top: 220%;
+    left: 31%;
+    cursor: pointer;
+}
+.thethirdpicstextinsixthdiv{
+    font-size: 33px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 2px 5px 3px rgb(56, 55, 55);
+    position: absolute;
+    top: 220%;
+    left: 52%;
+    cursor: pointer;
+}
+.thefourthpicstextinsixthdiv{
+    font-size: 33px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 2px 5px 3px rgb(56, 55, 55);
+    position: absolute;
+    top: 213%;
+    left: 73%;
+    cursor: pointer;
+}
